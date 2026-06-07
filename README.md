@@ -1,2 +1,27 @@
-# NFC-RFID-Reader-Design
-Collection of datasheets, PCB files, schematics and design documents for NFC &amp; RFID reader chips.
+# 读卡器芯片开发清单
+## 一、NXP 系列
+### PN7160 / PN7161 系列
+- [ ] PN7161B1HN/C100E
+- [ ] PN7161A1HN/C100E
+- [ ] PN7160A1HN/C100E
+- [ ] PN7160B1HN/C100E
+
+### PN7220 系列
+
+
+
+### PN7462 / PN7642 系列
+- [ ] PN7462AUHN/C300E
+- [ ] PN7642AUHN/C300E
+
+## 二、TI 系列
+- [ ] TRF7970ARHBR
+
+## 三、PTX 系列
+- [ ] PTX130RDQ56D13
+
+## 四、ST 意法半导体系列（ST25 射频收发器）
+- [ ] ST25R3916-AQET
+- [ ] ST25R3916B-AQWT
+- [ ] ST25R3916B-AQET
+- [ ] ST25R3920B-AQWT
