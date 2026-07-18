@@ -11,9 +11,9 @@
 - [ ] PN7220EV/C101Y
 
 ## 二、TI 系列
-- [ ] TRF7970ARHBR
+- [x] TRF7970ARHBR
 
-## 四、ST 意法半导体系列（ST25 射频收发器）
+## 三、ST 意法半导体系列
 - [ ] ST25R300-AQET
 - [ ] ST25R3916B-AQET
 - [ ] ST25R3917B-AQET
